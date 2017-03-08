@@ -1,4 +1,4 @@
-(defproject slack-webhook-logback-appender "1.0.0-SNAPSHOT"
+(defproject slack-webhook-logback-appender "1.0.0"
   :description "FIXME: write description"
   :url "https://github.com/uzabase/slack-webhook-logback-appender"
   :license {:name "Eclipse Public License"
