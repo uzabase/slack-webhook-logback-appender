@@ -7,4 +7,5 @@
                  [clj-http "3.4.1"]
                  [cheshire "5.7.0"]
                  [ch.qos.logback/logback-classic "1.2.1"]]
-  :aot [slack-appender.core])
+  :aot [slack-appender.core]
+  :deploy-repositories [["releases" {:sign-releases false}]])
